@@ -25,6 +25,8 @@ function middlePermutation(s) {
     return newArr.join('')
   }
 }
-console.log(middlePermutation('ahwdjenqozpyfusgibvkmtcl'))
+console.log(middlePermutation('abc'))
+console.log(middlePermutation('abcd'))
+console.log(middlePermutation('obcxd'))
   // console.log(middlePermutation("sxiowlfheuctqkjvnmadrgypzb"))
   // console.log(middlePermutation("fp"))
